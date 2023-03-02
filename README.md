@@ -24,7 +24,7 @@ git remote add NAME https://github.com/USER_NAME/REPOSSITORY_NAME.git
 ```
 ### show remotes with verbose
 ```bash
-git remote -V
+git remote -v
 ```
 ### change branch name
 ```bash
